@@ -12,12 +12,15 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$background-image: url("../images/fisher1920x1280.jpg") !default;
-$brand-color:      #5f048a !default;
+$background-image: url("../images/balloon.jpeg") !default;
+$brand-color:      #702396 !default;
 
-$grey-color:       #d104b2 !default;
+$grey-color:       #000000 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
+
+$page-border: 1px solid #000;
+$page-background-color: rgba(255, 255, 255, 0.397);
 
 // Width of the content area
 $content-width:    800px !default;
