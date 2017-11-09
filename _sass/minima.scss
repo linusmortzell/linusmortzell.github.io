@@ -8,10 +8,10 @@ $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit:     25px !default;
 
 $text-color:       #111 !default;
-$background-color: #fdfdfd !default;
+$background-color: #ffffff !default;
 $background-image: url("../images/balloon.jpeg") !default;
 $brand-color:      #702396 !default;
 
@@ -20,7 +20,7 @@ $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 $page-border: 1px solid #000;
-$page-background-color: rgba(255, 255, 255, 0.397);
+$page-background-color: rgba(255, 255, 255, 0.582);
 
 // Width of the content area
 $content-width:    800px !default;

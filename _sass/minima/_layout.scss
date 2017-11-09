@@ -15,11 +15,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  border: 2px solid #000000;
+  border: $page-border;
   border-radius: 8px;
-  background-color: rgba(255, 255, 255, 0.397);
-  padding-left: 10px;
-  padding-right: 10px;
+  background-color: $page-background-color;
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
   &,
   &:visited {
     color: $grey-color-dark;
@@ -29,11 +29,12 @@
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
-  border: 2px solid #000000;
+  border: $page-border;
   border-radius: 8px;
-  background-color: rgba(255, 255, 255, 0.397);
+  background-color: $page-background-color;
   padding-left: 10px;
   padding-right: 10px;
+  font-size: 22px;
 
   .nav-trigger {
       display: none;
@@ -107,8 +108,6 @@
   }
 }
 
-
-
 /**
  * Site footer
  */
@@ -178,12 +177,13 @@
 
 
 
-.page-content .wrapper, .site-footer .wrapper, .site-header .wrapper {
+.page-content .wrapper, .site-footer .wrapper, {
   border-radius:  8px;
   border: $page-border;
   background-color: $page-background-color;
-  padding: 20px;
+  padding-top: 20px;
 }
+
 
 /**
  * Page content
@@ -260,4 +260,3 @@
     }
   }
 }
-

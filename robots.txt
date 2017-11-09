@@ -1,0 +1,11 @@
+# /robots.txt file for my blogpage.
+# mail linus@mortzell.com for constructive criticism.
+
+User-agent: Google
+Disallow:
+
+User-agent: Facebook
+Disallow:
+
+User-agent: *
+Disallow: /
