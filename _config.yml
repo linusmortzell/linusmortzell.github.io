@@ -19,9 +19,9 @@ email: linus@mortzell.com
 description: >- # this means to ignore newlines until "baseurl:"
   En sajt som skapats för att testa på sass och static site generators!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lm222qm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: linusmortzell
-github_username:  lm222qm
+github_username:  linusmortzell
 
 # Build settings
 markdown: kramdown
