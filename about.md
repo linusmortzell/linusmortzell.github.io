@@ -32,4 +32,4 @@ För tillfället har jag nog inget mer att skriva men det kanske dyker upp någo
 
 Nu när du ha läst klart kunn du ju gå in å kommenter på nå inlägg i bloggen, hä sku ja tyck va som halvtrevligt!
 
-[Här har du Humans.txt om den skulle vara intressant.](../humans.txt")
+[Här har du Humans.txt om den skulle vara intressant.](../humans.txt)
